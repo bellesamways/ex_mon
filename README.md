@@ -1,5 +1,7 @@
 # ExMon
 
+Link para o curso de onde o jogo saiu: [Curso de Rafael Camarda](https://www.udemy.com/course/elixir-e-phoenix-do-zero/)
+
 Jogo baseado em turnos onde teremos um player contra o computador.
 
 Humano e computador começam com 100 pontos de vida.
